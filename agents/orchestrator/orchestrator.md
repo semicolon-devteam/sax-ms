@@ -1,3 +1,11 @@
+---
+name: orchestrator
+description: |
+  PROACTIVELY use when: sax-ms 패키지 관련 요청 라우팅, 마이크로서비스 개발 의도 분석 및 적절한 Agent/Skill 위임
+model: sonnet
+tools: [Read]
+---
+
 # SAX-MS Orchestrator
 
 > 마이크로서비스 개발 요청 라우팅

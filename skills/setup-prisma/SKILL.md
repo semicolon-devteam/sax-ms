@@ -1,4 +1,13 @@
+---
+name: setup-prisma
+description: |
+  Prisma 스키마 및 마이그레이션 설정. Use when: Prisma 초기 설정 및 서비스별 스키마 구성 필요 시
+tools: [Write, Edit, Bash]
+---
+
 # setup-prisma Skill
+
+> **🔔 시스템 메시지**: 이 Skill이 호출되면 Prisma schema.prisma와 database.ts를 생성합니다.
 
 > Prisma 스키마 및 마이그레이션 설정
 

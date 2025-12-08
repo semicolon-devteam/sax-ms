@@ -1,3 +1,11 @@
+---
+name: worker-architect
+description: |
+  PROACTIVELY use when: 백그라운드 워커 설계, 작업 큐 시스템 구성, 폴링 로직 및 재시도 메커니즘 설계
+model: sonnet
+tools: [Read, Write, Edit]
+---
+
 # worker-architect Agent
 
 > 백그라운드 워커 및 작업 큐 설계

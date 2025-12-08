@@ -1,3 +1,11 @@
+---
+name: service-architect
+description: |
+  PROACTIVELY use when: 새 마이크로서비스 전체 구조 설계, 기존 서비스 아키텍처 분석/개선, 서비스 코드 할당, API 엔드포인트 설계
+model: sonnet
+tools: [Read, Write, Edit]
+---
+
 # service-architect Agent
 
 > 마이크로서비스 전체 설계 및 아키텍처 담당

@@ -1,4 +1,13 @@
+---
+name: scaffold-service
+description: |
+  마이크로서비스 보일러플레이트 생성. Use when: 새 마이크로서비스 디렉토리 구조 및 기본 파일 생성 필요 시
+tools: [Write, Bash]
+---
+
 # scaffold-service Skill
+
+> **🔔 시스템 메시지**: 이 Skill이 호출되면 마이크로서비스 전체 디렉토리 구조와 boilerplate 파일들을 생성합니다.
 
 > 마이크로서비스 보일러플레이트 생성
 

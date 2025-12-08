@@ -1,4 +1,13 @@
+---
+name: create-event-schema
+description: |
+  이벤트 스키마 TypeScript 타입 생성. Use when: 이벤트 봉투 및 Zod 스키마 자동 생성 필요 시
+tools: [Write, Edit]
+---
+
 # create-event-schema Skill
+
+> **🔔 시스템 메시지**: 이 Skill이 호출되면 EventEnvelope 인터페이스와 Zod 스키마를 생성합니다.
 
 > 이벤트 스키마 TypeScript 타입 생성
 
