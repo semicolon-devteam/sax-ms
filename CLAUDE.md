@@ -14,19 +14,19 @@
 
 ### 1. 세션 초기화
 
-> 📖 상세: [sax-core/_shared/INIT_SETUP.md](sax-core/_shared/INIT_SETUP.md)
+> 📖 상세: [_shared/INIT_SETUP.md](../_shared/INIT_SETUP.md)
 
 ### 2. SAX Core 참조
 
-> 📖 상세: [sax-core/_shared/SAX_CORE_REFERENCE.md](sax-core/_shared/SAX_CORE_REFERENCE.md)
+> 📖 상세: [_shared/SAX_CORE_REFERENCE.md](../_shared/SAX_CORE_REFERENCE.md)
 
 | 파일 | 용도 |
 |------|------|
-| `sax-core/_shared/microservice-conventions.md` | 마이크로서비스 공통 규약 |
+| `_shared/microservice-conventions.md` | 마이크로서비스 공통 규약 |
 
 ### 3. Orchestrator 위임
 
-> 📖 상세: [sax-core/_shared/ORCHESTRATOR_RULES.md](sax-core/_shared/ORCHESTRATOR_RULES.md)
+> 📖 상세: [_shared/ORCHESTRATOR_RULES.md](../_shared/ORCHESTRATOR_RULES.md)
 
 | 패턴 | 라우팅 |
 |------|--------|
